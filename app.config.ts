@@ -32,7 +32,7 @@ const env = {
   appSlug: "guitar-learner-app",
   // S3 URL of the app logo - set this to the URL returned by generate_image when creating custom logo
   // Leave empty to use the default icon from assets/images/icon.png
-  logoUrl: "",
+  logoUrl: "https://private-us-east-1.manuscdn.com/sessionFile/R5TBLWtHThj4tNfiEBgY2N/sandbox/Mxh11Z8ErEXCVf0gndoRbQ-img-1_1771828919000_na1fn_aWNvbg.png",
   scheme: schemeFromBundleId,
   iosBundleId: bundleId,
   androidPackage: bundleId,
